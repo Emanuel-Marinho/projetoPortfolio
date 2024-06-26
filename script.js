@@ -15,7 +15,7 @@ function toggleMode() {
     img.setAttribute("src", "assets/fotoEmanuel.jpeg")
     img.setAttribute("alt", "Minha imagem sorrindo")
   } else {
-    img.setAttribute("src", "assets/fotoEmanuel.jpeg")
+    img.setAttribute("src", "assets/fotoEmanuelDark.jpg")
     img.setAttribute("alt", "Minha imagem sério")
   }
 }
